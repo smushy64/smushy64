@@ -9,7 +9,7 @@ now I'm working on my own [game engine](https://github.com/smushy64/museum.git).
 
 I mostly develop on Windows (game development amiright?) with Neovim as my primary editor.
 
-You can reach me at (smushyaa@gmail.com)[mailto:smushyaa@gmail.com] or
+You can reach me at [smushyaa@gmail.com](mailto:smushyaa@gmail.com) or
 my [discord](discord:smushy666).
 
 <!--
