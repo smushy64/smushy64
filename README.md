@@ -3,26 +3,15 @@
 
 Hi! I'm an indie game developer from Long Island, NY.
 
-I'm primarily a C programmer but I also program in Rust and C# regularly.
-I have experience using Unity Engine, Godot and Unreal Engine but right
-now I'm working on my own [game engine](https://github.com/smushy64/museum.git).
+I'm primarily a C and C++ programmer but I also program in Rust and C# regularly.
+I have experience using Unity Engine, Godot and Unreal Engine.
+Right now I'm working on my own [game engine](https://github.com/smushy64/museum.git).
 
-I mostly develop on Windows (game development amiright?) with Neovim as my primary editor.
+I mostly develop on Linux with Neovim as my primary editor.
 
-You can reach me at [smushyaa@gmail.com](mailto:smushyaa@gmail.com) or
-my [discord](https://discord.com/users/241326734698479626).
-
-<!--
-**smushy64/smushy64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+- [smushy64 on itch.io](https://smushy64.itch.io/)
+- [smushy64.itch.io on Bluesky](https://bsky.app/profile/smushy64.itch.io)
+- [smushy64 on Twitch](https://www.twitch.tv/smushy64)
+- [smushy666 on Discord](https://discord.com/users/241326734698479626)
+- [smushyaa@gmail.com](mailto:smushyaa@gmail.com)
