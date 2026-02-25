@@ -1,7 +1,9 @@
 
 ## Alicia Amarilla
 
-Hi! I'm an indie game developer from Long Island, NY.
+Indie game developer from Brooklyn, NY.
+
+Computer Engineering Technology student at New York City College of Technology.
 
 I'm primarily a C/C++ programmer but I also program in Rust and C# regularly.
 I have experience using Unity Engine, Godot and Unreal Engine.
