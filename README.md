@@ -1,15 +1,20 @@
 
-## Alicia Amarilla
+## Alicia D. Amarilla
 
-Indie game developer from Brooklyn, NY.
+Programmer and artist from Brooklyn, NY.
 
-Computer Engineering Technology student at New York City College of Technology.
+Computer Engineering Technology student at CUNY CityTech.
 
-I'm primarily a C/C++ programmer but I also program in Rust and C# regularly.
-I have experience using Unity Engine, Godot and Unreal Engine.
-Right now I'm writing my own [game engine](https://github.com/smushy64/museum.git).
+Primarily write C/C++ but also program in Rust, C# and Typescript.
+Experienced with developing games in Unreal Engine, Unity and Godot.
 
-I spend most of my time in Void Linux with Neovim as my primary editor.
+At the moment, I write code using NeoVim on my Framework Laptop 12 running Void Linux.
+
+As for art, my usual tools are Blender and Krita although in college
+I primarily used Adobe products for 2D (Photoshop, Illustrator and After Effects) and
+Autodesk Maya for 3D.
+
+The project I'm currently working on is an interactive MTA subway map.
 
 ### Links
 - [smushy64 on itch.io](https://smushy64.itch.io/)
